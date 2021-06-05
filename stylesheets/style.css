@@ -26,10 +26,6 @@
 
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
-  #gander-info-text {
-    padding-left: 75px;
-  }
-
   #gander-repo-btn {
     height: 80px;
   }
