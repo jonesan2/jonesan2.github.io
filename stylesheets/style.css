@@ -35,6 +35,18 @@
   #gander-repo-btn {
     height: 40px;
   }
+
+  #github-logo {
+    position: fixed;
+  }
+
+  #resume-logo {
+    position: fixed;
+  }
+
+  #linkedin-logo {
+    position: fixed;
+  }
 }
 
 /* ---------------------------------
@@ -394,7 +406,6 @@ div > iframe {
 #resume-logo {
   cursor: pointer;
   width: 35px;
-  position: fixed;
   top: 5px;
   left: 5px;
 }
@@ -402,7 +413,6 @@ div > iframe {
 #github-logo {
   cursor: pointer;
   width: 35px;
-  position: fixed;
   top: 55px;
   left: 5px;
 }
@@ -410,7 +420,6 @@ div > iframe {
 #linkedin-logo {
   cursor: pointer;
   width: 35px;
-  position: fixed;
   top: 105px;
   left: 5px;
 }
@@ -619,12 +628,4 @@ div > iframe {
   #projects li:last-of-type {
     margin-bottom: 0;
   }
-}
-
-#blog-logo {
-  cursor: pointer;
-  width: 35px;
-  position: fixed;
-  top: 155px;
-  left: 5px;
 }
