@@ -27,7 +27,7 @@
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
   #gander-info-text {
-    margin-left: 100px;
+    padding-left: 75px;
   }
 
   #gander-repo-btn {
@@ -339,10 +339,6 @@ footer {
   margin-top: 75px;
 }
 
-#gander-info-container {
-  margin-bottom: 75px;
-}
-
 #gander-info-container > div,
 #gander-video-container > div {
   width: 50%;
@@ -362,6 +358,7 @@ footer {
   max-width: 100%;
   width: auto;
   /*padding-bottom: 50px;*/
+  margin-bottom: 50px;
 }
 
 div > iframe {
